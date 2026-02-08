@@ -20,7 +20,10 @@ affiliations:
 date: 8 February 2026
 bibliography: paper.bib
 csl: vancouver.csl
----
+---biohackathon_name: "BioHackathon Europe 2023"
+biohackathon_location: "Barcelona, Spain"
+biohackathon_url: "https://biohackathon-europe.org/"
+git_url: "https://github.com/Yersultan801/-stroke-gut-microbiome-review"
 ---
 
 
