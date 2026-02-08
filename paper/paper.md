@@ -1,5 +1,4 @@
 ---
----
 title: "The Link Between Stroke and the Gut Microbiome: Mechanisms, Clinical Evidence, and Future Therapeutic Perspectives"
 title_short: "Stroke and Gut Microbiome Review"
 
@@ -14,9 +13,9 @@ tags:
   - medicine
 
 authors:
-  - name: Yersultan Musumankulov
+  - name: Yersultan Husumankulov
     affiliation: 1
-    role: Conceptualization, Writing - original draft, Writing - review & editing, Literature review
+    role: Writing - original draft, Conceptualization, Literature review
 
 affiliations:
   - name: Pavlodar High Medical College, Kazakhstan
@@ -26,12 +25,12 @@ date: 8 February 2026
 bibliography: paper.bib
 csl: vancouver.csl
 
-biohackathon_name: "Independent Research Preprint"
-biohackathon_url: "https://github.com/Yersultan801/-stroke-gut-microbiome-review"
-biohackathon_location: "Kazakhstan"
-
+biohackathon_name: "BioHackrXiv"
+biohackathon_location: "Online"
+biohackathon_url: "https://biohackrxiv.org/"
 git_url: "https://github.com/Yersultan801/-stroke-gut-microbiome-review"
 ---
+
 
 
 
